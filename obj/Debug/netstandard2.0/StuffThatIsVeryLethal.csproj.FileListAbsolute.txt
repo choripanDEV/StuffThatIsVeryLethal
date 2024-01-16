@@ -1,0 +1,6 @@
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\StuffThatIsVeryLethal.csproj.AssemblyReference.cache
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\StuffThatIsVeryLethal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\StuffThatIsVeryLethal.AssemblyInfoInputs.cache
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\StuffThatIsVeryLethal.AssemblyInfo.cs
+C:\Games\mods bepInEx\StuffThatIsVeryLethal\obj\Debug\netstandard2.0\StuffThatIsVeryLethal.csproj.CoreCompileInputs.cache
